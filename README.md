@@ -1,6 +1,7 @@
 # Query_n_Answer
-<img width="50" alt="Query View" src="https://user-images.githubusercontent.com/83503396/194856984-d2c6b550-610c-4ec3-b9ff-e8467bc3adcb.png"> An IOS app that takes queries and responds by using Machine Learning and Firebase. 
+An IOS app that takes queries and responds by using Machine Learning and Firebase. 
 
+<img width="150" alt="Query View" src="https://user-images.githubusercontent.com/83503396/194856984-d2c6b550-610c-4ec3-b9ff-e8467bc3adcb.png"> 
 
 
 ## Future plans for development
