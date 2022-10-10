@@ -16,26 +16,31 @@
       "size" : "29x29"
     },
     {
+      "filename" : "JPGGQ87.jpg",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
     },
     {
+      "filename" : "JPGGQ80.jpg",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "40x40"
     },
     {
+      "filename" : "JPGGQ120-1.jpg",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
     },
     {
+      "filename" : "JPGGQ120.jpg",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "Logo100%.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
@@ -66,9 +71,15 @@
       "size" : "40x40"
     },
     {
+      "filename" : "JPGGQ80-1.jpg",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "40x40"
+    },
+    {
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "76x76"
     },
     {
       "idiom" : "ipad",
