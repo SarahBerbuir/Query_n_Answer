@@ -13,7 +13,10 @@ It is planned to run machine learning code in Python on the backend of Firebase.
 
 ## Development of the app and used technologies
 
-!["test"]("/FirebaseAuthTryout/Assets.xcassets/Logo_Transparent.imageset/QA2_transp.pdf")
+[<img src="https://user-images.githubusercontent.com/83503396/194854723-4a01c5dc-e79f-4d26-8e45-c6a556f88921.png" width="60"/>](https://user-images.githubusercontent.com/83503396/194854723-4a01c5dc-e79f-4d26-8e45-c6a556f88921.png)
+[<img src="https://user-images.githubusercontent.com/83503396/194854821-963fbe7a-b83e-433d-83d1-76b1a8618145.png" width="75"/>](https://user-images.githubusercontent.com/83503396/194854821-963fbe7a-b83e-433d-83d1-76b1a8618145.png)
+[<img src="https://user-images.githubusercontent.com/83503396/194854785-898e2b51-11a1-4386-9988-3f1d8e26a063.png" width="250"/>](https://user-images.githubusercontent.com/83503396/194854785-898e2b51-11a1-4386-9988-3f1d8e26a063.png)
+
 
 The user interface of the app was written in SwiftUI and designed in a pleasant and minimal way by using a logo and two consistent colors. 
 There is a login and create user function. Through Firebase it is possible to have an overview of users and to include user-related functions in further developments. By the implementation the functionality of Firebase and FirebaseAuth was learned.
