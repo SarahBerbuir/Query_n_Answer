@@ -59,6 +59,7 @@
 		86AD1B6228EDD24C00E6149A = {
 			isa = PBXGroup;
 			children = (
+				86AD1B9D28F4355C00E6149A /* README.md */,
 				86AD1B6D28EDD24C00E6149A /* FirebaseAuthTryout */,
 				86AD1B6C28EDD24C00E6149A /* Products */,
 			);
@@ -81,7 +82,6 @@
 				86AD1B6E28EDD24C00E6149A /* FirebaseAuthTryoutApp.swift */,
 				86AD1B7028EDD24C00E6149A /* ContentView.swift */,
 				86AD1B7228EDD24D00E6149A /* Assets.xcassets */,
-				86AD1B9D28F4355C00E6149A /* README.md */,
 			);
 			path = FirebaseAuthTryout;
 			sourceTree = "<group>";
